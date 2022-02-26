@@ -15,7 +15,7 @@ this is the list of my hosted website links
                  
                  
  2. sveltejs-curd-frontend <a href="https://sveltejs-crud.netlify.app/#/" target="_blank"> Visit </a>
- 3. php-oops-crud-api-with-jwt-authentication <a href="https://sveltejs-crud.netlify.app/#/" target="_blank"> Visit </a> for this we use postman
+ 3. php-oops-crud-api-with-jwt-authentication <a href="https://nuxt-app123.000webhostapp.com/php-api-with-jwt-auth/" target="_blank"> Visit </a> for this we use postman
                <h6>End point</h6>
                  1. <a href="https://nuxt-app123.000webhostapp.com/php-api-with-jwt-auth/auth-file/create-user.php" target="_blank">Sign up</a> Method post <br />
                  2. <a href="https://nuxt-app123.000webhostapp.com/php-api-with-jwt-auth/auth-file/login-user.php" target="_blank">Signin</a> Method post <br />
