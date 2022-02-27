@@ -25,6 +25,7 @@ this is the list of my hosted website links
                  6. <a href="https://nuxt-app123.000webhostapp.com/php-api-with-jwt-auth/crud-file/get-single-products.php" target="_blank">Edit</a> id provide in body  put<br />
                  7. <a href="https://nuxt-app123.000webhostapp.com/php-api-with-jwt-auth/crud-file/update-products.php" target="_blank">Update</a> id provide in body  method patch <br />
                  8. <a href="https://nuxt-app123.000webhostapp.com/php-api-with-jwt-auth/crud-file/delete-products.php" target="_blank">Delete</a> id will provide in body method   delete <br />
-
+  4. Vuejs todo app <a href="https://vuejs-todo-app-six.vercel.app/" target="_blank">Visit</a> 
+  5. Sveltejs todo app <a href="https://todo-app-sveltes.vercel.app/" target="_blank">Visit</a> 
      
    
