@@ -27,5 +27,6 @@ this is the list of my hosted website links
                  8. <a href="https://nuxt-app123.000webhostapp.com/php-api-with-jwt-auth/crud-file/delete-products.php" target="_blank">Delete</a> id will provide in body method   delete <br />
   4. Vuejs todo app <a href="https://vuejs-todo-app-six.vercel.app/" target="_blank">Visit</a> 
   5. Sveltejs todo app <a href="https://todo-app-sveltes.vercel.app/" target="_blank">Visit</a> 
+  6. vue and supabase crud <a href="https://vue-supabase-crud.netlify.app/?#/" target="_blank">Visit</a>
      
    
