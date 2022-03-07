@@ -28,5 +28,9 @@ this is the list of my hosted website links
   4. Vuejs todo app <a href="https://vuejs-todo-app-six.vercel.app/" target="_blank">Visit</a> 
   5. Sveltejs todo app <a href="https://todo-app-sveltes.vercel.app/" target="_blank">Visit</a> 
   6. vue and supabase crud <a href="https://vue-supabase-crud.netlify.app/?#/" target="_blank">Visit</a>
+  7. react and firebase crud <a href="https://react-firebase-auth123.netlify.app/" target="_blank">Visit</a>
+  8. react and firebase crud <a href="https://react-firebase-auth123.netlify.app/" target="_blank">Visit</a>
+
+
      
    
